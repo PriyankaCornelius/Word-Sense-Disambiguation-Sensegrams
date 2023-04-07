@@ -64,7 +64,7 @@ We are working on a pipeline to integrate these prediction module into Anusaarak
 ## Authors:
 
 * NAMAN AGRAWAL:namanagrawal54@gmail.com
-* PRIYANKA CORNELIUS:priyankajohn1997@gmail.com
+* PRIYANKA CORNELIUS:priyanka01cornelius@gmail.com
 -----------------------------------------------------------------------------------------
 ## Downloads:
 * Sensegrams Trained from 300 dimension vectors (glove).
